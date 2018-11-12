@@ -3,3 +3,4 @@ I'll push it to GitHub
 I didn't like the change from GH so I made another one
 Trying to make a change for Branch1
 Adding some text to commit
+And again more text to commit
