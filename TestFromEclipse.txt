@@ -1,3 +1,3 @@
 This is a text file created by Leo in Eclipse
 I'll push it to GitHub 
-Changing the file from GH
+I didn't like the change from GH so I made another one
